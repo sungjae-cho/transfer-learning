@@ -11,7 +11,7 @@
 
 You can find datasets for image recognition in [Kaggle](https://www.kaggle.com) and [Tensorflow Dataset](https://www.tensorflow.org/datasets). To learn how to import and manipulate datasets through Tensorflow, see [this document](https://www.tensorflow.org/datasets/overview).
 
-1. [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data): binary classification (2 classes).
+1. [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data): Binary classification (2 classes).
 1. [MNIST](http://yann.lecun.com/exdb/mnist/): Multiple classification (more than 2 classes).
 
 ## Pre-trained Models to be Used
