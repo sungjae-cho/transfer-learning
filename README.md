@@ -1,4 +1,4 @@
-# Practicing Transfer Learning in Keras (Backend: Tensorflow 1.14.0)
+# Practicing Transfer Learning in Keras and Tensorflow
 
 ## Software Configuration
 
